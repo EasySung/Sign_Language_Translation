@@ -1,4 +1,4 @@
-# main.py - main
+# main.py
 import os
 from object_detector import WebcamObjectDetector
 from openai_chat import OpenAIChat
