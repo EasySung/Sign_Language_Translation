@@ -10,7 +10,7 @@ def main():
     labels_file = os.path.join(base_path, 'labels.txt')
 
     # OpenAI API 키와 모델 설정
-    api_key = "sk-proj-MgYQyplQwtVSJLVdcb5dT3BlbkFJCzGstWNJiHm41HAGF3DK"
+    api_key = "API_KEY"
     model = "gpt-4o-mini"  # 사용할 모델명
 
     # OpenAIChat 클래스의 인스턴스 생성
